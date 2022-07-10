@@ -1,3 +1,3 @@
 # vr-sakai
  
-https://code4fukui.github.io/vr-sakai/
+https://code4sakai-osaka.github.io/vr-sakai/
